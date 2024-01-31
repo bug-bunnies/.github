@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://https://festisounds.vercel.app/">
+  <a href="https://festisounds.vercel.app/">
     <img src="https://github.com/bug-bunnies/FestiSounds_Frontend/blob/main/public/assets/logo/festisounds-logo-green.png"
          alt="FestiSounds Logo" height="200px" width="200px">
   </a>
